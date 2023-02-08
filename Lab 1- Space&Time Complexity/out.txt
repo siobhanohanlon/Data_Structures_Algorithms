@@ -1,0 +1,19 @@
+How long it takes for loops to complete with different sized lists
+
+Round 1- dictionary 
+
+Size		n = 234,936
+Constant	0(1)= 30,100
+Linear		0(n) = 3,825,700
+Log		0(log(n)) = 78,600 
+Quadratic	0(n^2) = 43,910,711,100
+
+
+
+Round 2 - double dictionary
+
+Size		n = 469,872
+Constant	0(1)= 39,500
+Linear		0(n) = 3,815,200
+Log		0(log(n)) = 59,700
+Quadratic	0(n^2) = 174,885,786,700

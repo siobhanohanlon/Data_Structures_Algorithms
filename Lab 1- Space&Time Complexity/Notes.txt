@@ -1,0 +1,5 @@
+ie file to copy to src 
+dictionary.txt to copy to project
+./ current directory- in eclipse is project directory
+stream is used to read or write bytes (computers)
+reader/writer is used to read or write characters (humans)
